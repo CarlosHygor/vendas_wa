@@ -2,7 +2,7 @@
 Pratica Web Academy
 ### N sei o q lá
 Testando o markdawn e praticando GIT e GITHUB no projeto Web Academy
-#Tabela
+#Usando tabela com markdown 
 | Nome   | Poder  | Time       |
 |--------|--------|-----------|
 | Thor   | ⚡ 100% | Vingadores |
